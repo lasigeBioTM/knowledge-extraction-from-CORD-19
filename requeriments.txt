@@ -1,0 +1,3 @@
+merpy
+tqdm
+spacy
