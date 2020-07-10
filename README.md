@@ -8,5 +8,7 @@ Modules:
 - Relation extraction
     - [BiOnt](https://github.com/lasigeBioTM/BiOnt): Diana Sousa and Francisco M. Couto. 2020. BiOnt: Deep Learning using Multiple Biomedical Ontologies for Relation Extraction.
 - Recommender system
+    - [CHERM](https://github.com/lasigeBioTM/CheRM) and [cARM](https://github.com/lasigeBioTM/cARM): Barros, Márcia, André Moitinho, and Francisco M. Couto. "Using research literature to generate datasets of implicit feedback for recommending scientific items." IEEE Access 7 (2019): 176668-176680.
+
 
 More information can be found inside the directory of each module.
